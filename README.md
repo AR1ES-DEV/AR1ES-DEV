@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
-<h3 align="center">I'm an aspiring full-stack developer from the UK, and I'm on a journey to learn and grow in the world of web development. Thank you for following my learning process!</h3>
+<h3 align="center">Just coding here and there</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kxai99&label=Profile%20views&color=0e75b6&style=flat" alt="kxai99" /> </p>
 
