@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -30,14 +30,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=serenity.exe&color=6704FA&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="Kxai99" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamkxYzh4NDc5MHIwM2ZoM3BlMjA5MHh0eDM4cWloaXRoeGJscWg2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qNtqBSTTwXyuI/giphy.gif"  />
+<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamkxYzh4NDc5MHIwM2ZoM3BlMjA5MHh0eDM4cWloaXRoeGJscWg2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qNtqBSTTwXyuI/giphy.gif"  />
 
 ###
 ###
