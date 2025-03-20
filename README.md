@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=serenity.exe&color=6704FA&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="Kxai99" target="_blank">
+  <a href="https://codepen.io/kxai99" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
