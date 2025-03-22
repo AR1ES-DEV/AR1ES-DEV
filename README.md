@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently working on Game Development (FiveM) & Web Development</p>
+<p align="left">Currently working on learning Game Development (FiveM) & Web Development</p>
 
 ###
 
