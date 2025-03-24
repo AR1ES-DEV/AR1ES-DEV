@@ -43,11 +43,7 @@
   </a>
 </div>
 
-###
 
-<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamkxYzh4NDc5MHIwM2ZoM3BlMjA5MHh0eDM4cWloaXRoeGJscWg2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qNtqBSTTwXyuI/giphy.gif"  />
-
-###
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kxai99/kxai99/output/github-snake-dark.svg" />
