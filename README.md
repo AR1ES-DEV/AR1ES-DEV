@@ -1,8 +1,8 @@
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&width=435&lines=Hi%F0%9F%91%8B%2C+I%27m+AR1ES!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+AR1ES!">
-    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&width=435&lines=Hi%F0%9F%91%8B%2C+I%27m+AR1ES!">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&width=435&lines=Hi%F0%9F%91%8B%2C+I%27m+AR1ES!" alt="Typing SVG" />
   </picture>
 </h1>
 
