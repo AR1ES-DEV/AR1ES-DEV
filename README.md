@@ -2,7 +2,7 @@
   <img src="assets/typing.svg" alt="Typing SVG" />
 </h1>
 
-![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+![GitHub Banner]([https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://cdnb.artstation.com/p/assets/images/images/018/499/217/original/pixel-jeff-blade-runner-v2.gif?1559616031))
 
 <p align="center">Currently learning Game Development (FiveM) & Web Development</p>
 
