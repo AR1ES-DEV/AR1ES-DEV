@@ -2,7 +2,7 @@
   <img src="assets/typing.svg" alt="Typing SVG" />
 </h1>
 
-<a href="https://artist-link-here.com](https://www.artstation.com/pixeljeff1995" target="_blank">
+<a href="https://www.artstation.com/pixeljeff1995" target="_blank">
   <img src="https://cdnb.artstation.com/p/assets/images/images/018/499/217/original/pixel-jeff-blade-runner-v2.gif?1559616031" alt="GitHub Banner" />
 </a>
 
