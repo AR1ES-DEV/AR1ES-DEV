@@ -6,7 +6,7 @@
   <img src="https://cdnb.artstation.com/p/assets/images/images/018/499/217/original/pixel-jeff-blade-runner-v2.gif?1559616031" alt="GitHub Banner" />
 </a>
 
-<p align="center">Currently learning Game Development (FiveM) & Web Development</p>
+<p align="center">Currently learning Game Development (FiveM) & Software Development</p>
 
 
 
